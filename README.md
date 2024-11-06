@@ -68,7 +68,29 @@ Participated in organizing workshops and events for the statistics department, e
 
 [Publication](https://github.com/Henriqueufu/CRM_case/blob/1e6501de6d5c03149043ef1d9fc83b3887cd5b28/Case_CRM.ipynb)
 
-explicar o case CRM
+The CRM case is a study aimed at understanding customer behaviors of a company that sells food online. The main points developed were:
+
+- Detailed data exploration to understand the behavior of the customer base
+- Creation of clusters to segment customers and enable customized actions for each group
+- A predictive model designed to calculate the probability of a customer making a purchase given a marketing campaign
+
+### Web Scraping
+<a href="https://github.com/Henriqueufu/web_scraping/blob/0ef68555879a965e69931a93d2e45271b26f020c/web_scraping.ipynb">
+    <img src="/imagens/web_scraping.jpg" alt="" width="500" height="350">
+</a>
+
+[Publication](https://github.com/Henriqueufu/web_scraping/blob/0ef68555879a965e69931a93d2e45271b26f020c/web_scraping.ipynb)
+
+The web scraping technique is a powerful tool for obtaining data that is not easily available. It is important to always use this technique ethically, only consuming data for which the owners permit extraction.
+
+### OCR
+<a href="https://github.com/Henriqueufu/OCR/blob/e8cebbcd4d299d18e78befc777ee3ff9816b5f1b/OCR_Curriculo%20(1).ipynb">
+    <img src="/imagens/OCR.jpeg" alt="" width="500" height="350">
+</a>
+
+[Publication](https://github.com/Henriqueufu/OCR/blob/e8cebbcd4d299d18e78befc777ee3ff9816b5f1b/OCR_Curriculo%20(1).ipynb)
+
+OCR is another technique for obtaining data from challenging sources, in this case, images. OCR allows, for example, transforming a PDF into an image and then extracting the text from the image, which can be used as data.
 
 ---
 For more details, please reach out via [LinkedIn](https://www.linkedin.com/in/henrique-souza-Garcia/) or email.
