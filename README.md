@@ -2,3 +2,5 @@
 
 ##Teste
 teste teste
+
+![Foto](/imagens/foto.jpg)
