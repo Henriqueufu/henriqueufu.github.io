@@ -25,7 +25,6 @@
 <a href="https://github.com/Henriqueufu/CRM_case/blob/1e6501de6d5c03149043ef1d9fc83b3887cd5b28/Case_CRM.ipynb">
     <img src="/imagens/CRM-scaled.jpg" alt="" width="400" height="400">
 </a>
-<img src="/imagens/CRM-scaled.jpg" alt="" width="400" height="400">
 
 [Publication](https://github.com/Henriqueufu/CRM_case/blob/1e6501de6d5c03149043ef1d9fc83b3887cd5b28/Case_CRM.ipynb)
 
