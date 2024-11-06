@@ -23,6 +23,6 @@
 ## Projects
 ### CRM Case
 ![](/imagens/CRM-scaled.jpg)
-[Publication]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/Henriqueufu/CRM_case/blob/1e6501de6d5c03149043ef1d9fc83b3887cd5b28/Case_CRM.ipynb))
+[Publication](https://github.com/Henriqueufu/CRM_case/blob/1e6501de6d5c03149043ef1d9fc83b3887cd5b28/Case_CRM.ipynb)
 
 explicar o case CRM
