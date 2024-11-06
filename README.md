@@ -76,7 +76,7 @@ The CRM case is a study aimed at understanding customer behaviors of a company t
 
 ### Web Scraping
 <a href="https://github.com/Henriqueufu/web_scraping/blob/0ef68555879a965e69931a93d2e45271b26f020c/web_scraping.ipynb">
-    <img src="/imagens/web_scraping.jpg" alt="" width="500" height="350">
+    <img src="/imagens/web_scraping.jpg" alt="" width="500" height="300">
 </a>
 
 [Publication](https://github.com/Henriqueufu/web_scraping/blob/0ef68555879a965e69931a93d2e45271b26f020c/web_scraping.ipynb)
@@ -85,7 +85,7 @@ The web scraping technique is a powerful tool for obtaining data that is not eas
 
 ### OCR
 <a href="https://github.com/Henriqueufu/OCR/blob/e8cebbcd4d299d18e78befc777ee3ff9816b5f1b/OCR_Curriculo%20(1).ipynb">
-    <img src="/imagens/OCR.jpeg" alt="" width="500" height="350">
+    <img src="/imagens/OCR.jpeg" alt="" width="500" height="300">
 </a>
 
 [Publication](https://github.com/Henriqueufu/OCR/blob/e8cebbcd4d299d18e78befc777ee3ff9816b5f1b/OCR_Curriculo%20(1).ipynb)
