@@ -45,11 +45,6 @@ Contributed to projects using Python and SAS, with significant interaction with 
 Gained experience in statistical modeling, focusing on credit default analysis. Key tasks included:
 - Developing models (LightGBM in Python) for First Payment Default and credit default
 - Executing ETL processes for data creation and variable management in SQL (BigQuery)
-
-### Statistical Education Tutorial Program (ETP)  
-**04/2021 - 06/2023**  
-Participated in organizing workshops and events for the statistics department, enhancing teamwork and time management skills.
-
 ---
 
 ## Skills
