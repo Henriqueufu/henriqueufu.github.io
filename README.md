@@ -90,3 +90,61 @@ OCR is another technique for obtaining data from challenging sources, in this ca
 
 ---
 For more details, please reach out via [LinkedIn](https://www.linkedin.com/in/henrique-souza-Garcia/) or email.
+
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Previsão com LightGBM</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <h1>Previsão com LightGBM</h1>
+    <form id="data-form">
+        <label for="feature1">Feature 1:</label>
+        <input type="number" id="feature1" name="feature1"><br><br>
+        
+        <label for="feature2">Feature 2:</label>
+        <input type="number" id="feature2" name="feature2"><br><br>
+
+        <!-- Adicione mais campos conforme necessário -->
+        
+        <button type="submit">Enviar Dados</button>
+    </form>
+
+    <h2>Resultado da Previsão</h2>
+    <div id="prediction-result">A previsão aparecerá aqui.</div>
+
+    <script>
+        $('#data-form').on('submit', function(e) {
+            e.preventDefault();
+
+            // Coletar os dados do formulário
+            var formData = {
+                feature1: $('#feature1').val(),
+                feature2: $('#feature2').val(),
+                // Adicione os outros campos conforme necessário
+            };
+
+            // Enviar os dados para a API
+            $.ajax({
+                url: 'https://seu-servidor-api.com/predict',  // Substitua pela URL do seu servidor
+                type: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify(formData),
+                success: function(response) {
+                    // Exibir o resultado
+                    $('#prediction-result').text('Probabilidade: ' + response.prediction);
+                },
+                error: function(error) {
+                    $('#prediction-result').text('Erro ao obter a previsão.');
+                }
+            });
+        });
+    </script>
+</body>
+</html>
+
